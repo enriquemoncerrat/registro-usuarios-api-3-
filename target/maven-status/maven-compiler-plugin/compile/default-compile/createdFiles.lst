@@ -1,0 +1,3 @@
+com\example\registroapi\entity\User.class
+com\example\registroapi\controller\UserController.class
+com\example\registroapi\entity\Phone.class
